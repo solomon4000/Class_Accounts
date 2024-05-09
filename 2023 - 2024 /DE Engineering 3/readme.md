@@ -39,7 +39,7 @@ Name | Fun Fact
 [Alan F-P]() | 
 [Cristofer F-P]() |
 [Leo K](https://github.com/leokrahn/engr3) |  I like to make music, I was born in NYC, and I have a cat named Thumper.
-[Solomon L]() |  
+[Solomon L](https://github.com/solomon4000) | I am good at electrical engineering and loosing my freindships.  
 [Asher M](https://github.com/amarini3722/engr3) |  I like playing tennis.
 [Jude M]() |  
 [Josh O](https://github.com/SempronChip/engr3) |  I'm half South African.
